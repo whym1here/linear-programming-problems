@@ -1,0 +1,12 @@
+1) North-West
+2) Least Cost
+3) Vogel Approx
+CHOOSE which method to find IBFS : 
+No. of cost cols : No. of cost rows : Enter supply array here : 
+Enter demand array here : 
+Enter the cost table here : 
+IBFS : 
+Using Vagels Appoximation :
+[[ 0. 15.  0.  0.]
+ [ 0.  0. 15. 10.]
+ [ 5.  0.  0.  5.]]

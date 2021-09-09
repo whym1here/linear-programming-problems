@@ -1,0 +1,7 @@
+Minimization Problem Solver Using Dual Simplex Method :
+Number of eq with <= : Number of eq with >= : Number of eq with = : Number of cost var : Type the coeff of var in objective function : 
+Type the coeff of eq with <= : 
+Type the coeff of eq with >= : 
+Type the coeff of eq with = : 
+Output : 
+Z = -13.75
