@@ -1,0 +1,24 @@
+These programs awere written by :
+Name : Dhaval Kumar
+Branch : CSE 
+Roll No : 201000013
+
+Instructions given below
+
+For running these programs you need python installed on your system
+
+Run following commands in the shell :
+$ pip install icecream
+$ pip install numpy
+
+To run the program type the following in input.txt : 
+- number of constraints in 1st lines let it be n for now
+- objective function in 2nd lines
+- type equations in the following n lines
+
+Some sample input is provided in log.txt and their output produced by this program
+
+For running the code type following in the shell :
+$ python simplex_BigM.py
+or 
+$ python simplex_TwoPhase.py
